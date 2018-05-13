@@ -8,3 +8,5 @@ this contains my assignments
 [assignment4](https://github.com/JuulDorssers/assignments/blob/master/assignment4.ipynb)
 
 [assignment5](https://github.com/JuulDorssers/assignments/blob/master/Graded_assignment1.ipynb)
+
+[assignment6](https://github.com/JuulDorssers/assignments/blob/master/Graded_assignment_2.ipynb)
