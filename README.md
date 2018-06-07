@@ -10,3 +10,5 @@ this contains my assignments
 [assignment5](https://github.com/JuulDorssers/assignments/blob/master/Graded_assignment1.ipynb)
 
 [assignment6](https://github.com/JuulDorssers/assignments/blob/master/Graded_assignment_2.ipynb)
+
+[final assignment Python](https://github.com/JuulDorssers/assignments/blob/master/exam_june_7_2018-Copy1.ipynb)
