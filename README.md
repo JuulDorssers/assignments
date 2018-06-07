@@ -12,3 +12,5 @@ this contains my assignments
 [assignment6](https://github.com/JuulDorssers/assignments/blob/master/Graded_assignment_2.ipynb)
 
 [final assignment Python](https://github.com/JuulDorssers/assignments/blob/master/exam_june_7_2018-Copy1.ipynb)
+
+[final assignment R](https://github.com/JuulDorssers/assignments/blob/master/Exam_student%20(1).ipynb)
